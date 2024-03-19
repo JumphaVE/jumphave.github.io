@@ -1,6 +1,6 @@
 +++
 title = "blender motion blur渲染论文"
-date = 2023-06-23
+date = 2024-01-23
 +++
 
 #  更改视频帧速率
