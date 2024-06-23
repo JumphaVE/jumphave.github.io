@@ -7,7 +7,7 @@ date = 2024-6-23
 
 ### Frogeloder对网易统治合法性的威胁
 
-根据MinecraftForge官网（https://files.minecraftforge.net）的定义：
+根据MinecraftForge官网https://files.minecraftforge.net的定义：
 
 *MinecraftForge 是一个改造 Minecraft 的基础文件以协调 MODs 之间的兼容性的库，方便开发和加载各种《我的世界》 MOD ，以 LGPL 协议开源。*
 
