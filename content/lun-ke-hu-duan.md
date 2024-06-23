@@ -7,7 +7,7 @@ date = 2024-6-23
 
 ### Frogeloder对网易统治合法性的威胁
 
-根据MinecraftForge官网https://files.minecraftforge.net的定义：
+根据MinecraftForge官网<https://files.minecraftforge.net>的定义：
 
 *MinecraftForge 是一个改造 Minecraft 的基础文件以协调 MODs 之间的兼容性的库，方便开发和加载各种《我的世界》 MOD ，以 LGPL 协议开源。*
 
@@ -29,7 +29,7 @@ date = 2024-6-23
 
 ### 微软EULA许可协议声明的漏洞
 
-根据官网Minewcraft官网https://www.minecraft.net/zh-hans/eula
+根据官网Minewcraft官网<https://www.minecraft.net/zh-hans/eula>
 
 首先这个协议最大的问题不是对于mod创作相关的限制，而是整个协议都没有提及mod归属权滥用的问题：
 
