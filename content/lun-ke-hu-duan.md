@@ -29,7 +29,7 @@ date = 2024-6-23
 
 ### 微软EULA许可协议声明的漏洞
 
-根据官网Minewcraft官网（https://www.minecraft.net/zh-hans/eula）
+根据官网Minewcraft官网https://www.minecraft.net/zh-hans/eula
 
 首先这个协议最大的问题不是对于mod创作相关的限制，而是整个协议都没有提及mod归属权滥用的问题：
 
