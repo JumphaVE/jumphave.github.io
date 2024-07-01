@@ -83,6 +83,8 @@ LeviLamina作为一个伟大的mod插件管理器，无论是api接口还是执�
 
 而无论是微软原生的addon还是网易的addon打包工具改进版，都不能算严格意义上的模组，微软选择了错误的产业升级方向，也自然会使BE走向失败。
 
+![](https://api.star-history.com/svg?repos=LiteLDev/LeviLamina&type=Date)
+
 ### 打倒恶性肿瘤BE！打破封锁！
 
 微软从头到尾干出的自取其辱之事，我无法一一列举，但至少对于基岩版，我们可以总结：
