@@ -7,7 +7,7 @@ date = 2024-07-13
 
 ### blockbench和blender
 
-必须承认，blender无论在哪个方面相比于blockbench都有进步意义————广泛而具有生态多性的插件支持，以及更好的渲染算法和引擎，与此同时blockbench也是少有的受微软官方支持的开源社区————微软为其提供了JavaScript层的源码，让其能够比其他3d软件更加容易的兼容我的世界的地图和人物模型。
+必须承认，blender无论在哪个方面相比于blockbench都有进步意义————广泛而具有生态多性的插件支持，以及更好的渲染算法和引擎，与此同时blockbench也是少有的受微软官方支持的开源社区————微软为其提供了Java层的源码，让其能够比其他3d软件更加容易的兼容我的世界的地图和人物模型。
 
 ![](https://www.blockbench.net/_nuxt/img/front_page_app.6d99061.png)
 
