@@ -1,9 +1,9 @@
 +++
-title = "自由软件共用许可协议(Free Software Communal License, FSCL)"
+title = "自由软件共产主义许可协议(Free Software Communist License, FSCL)"
 date = 2025-02-19
 +++
 
-# 自由软件共用许可协议 (Free Software Communal License, FSCL)
+# 自由软件共产主义许可协议 (Free Software Communist License, FSCL)
 
 ## 前言
 
@@ -49,7 +49,7 @@ date = 2025-02-19
 
 7.1 本协议的任何条款如被认定为无效或不可执行，不影响其他条款的有效性和可执行性。
 
-# Free Software Communal License (FSCL)
+# Free Software Communist License (FSCL)
 
 ## Preamble
 
