@@ -1,5 +1,5 @@
 +++
-title = "blender motion blur渲染论文"
+title = "自由软件共用许可协议(Free Software Communal License, FSCL)"
 date = 2025-02-19
 +++
 
